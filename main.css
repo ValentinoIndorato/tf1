@@ -1,0 +1,56 @@
+h1{
+    color: aqua;
+}
+#svg8 {
+fill: black;}
+
+
+#svg8:hover{
+    fill: rgb(1, 136, 255);
+    stroke: #f5f507;
+
+}
+#g10739-0-3-5-9-031-6-0-67-2-4-6:hover{
+    fill:#f5f507
+    }
+    #svg9:hover{fill: rgb(1, 136, 255);
+        stroke: #f5f507;}
+        .amarillo{
+            fill: rgb(200, 255, 1)
+        }
+        .amarilloOscuro{
+            fill: rgb(78, 97, 12)
+
+        }
+        .amarilloOscuro:hover{
+            fill: red;
+        }
+        
+        .rojo{
+            fill: red;
+            transition: 0.3s;
+
+        }
+        .rojo:hover{
+            fill: rgb(255, 136, 0);
+            
+        }
+       
+        .negro{
+            fill: black;
+            transition: 0.2s;
+            
+           
+        }
+        .negro:hover{
+            fill: rgb(98, 116, 100);
+           
+        }
+        
+        .negro:nth-child(4n):hover{
+            fill: rgb(14, 255, 42);
+            
+        }
+        #svg10{
+            transform: rotate(90deg);
+        }
